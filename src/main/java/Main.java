@@ -5,6 +5,8 @@
 
 import java.util.Scanner;
 public class Main {
+
+    // Finished 2-28
     public static void main(String[] args ){
         // create a new object of class Main
         Main main = new Main();
